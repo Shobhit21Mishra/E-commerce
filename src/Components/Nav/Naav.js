@@ -32,7 +32,7 @@ const Naav = () => {
         <Container>
           <Navbar.Brand>
             <NavLink to="/" className={`${styles.navLink} text-uppercase`}>
-              Redux Commerce
+              Smart Cart 
             </NavLink>
           </Navbar.Brand>
 
